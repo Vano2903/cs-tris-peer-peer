@@ -1,0 +1,10 @@
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\bin\Debug\client.exe.config
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\bin\Debug\client.exe
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\bin\Debug\client.pdb
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.Form1.resources
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.exe
+C:\Users\vanoncini.18008\Desktop\socket-peer-peer\client\client\obj\Debug\client.pdb
